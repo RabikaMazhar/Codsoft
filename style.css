@@ -32,12 +32,12 @@ body {
 
 .btn {
   display: inline-block;
-  padding: 20px 30px;
+  padding: 0.5em 1.5em;
   text-decoration: none;
-  border-radius: 5px;
+  border-radius: 50px;
   cursor: pointer;
   outline: none;
-  margin-top: 1px;
+  margin-top: 1em;
   text-transform: uppercase;
   font-weight: small;
 
@@ -45,11 +45,11 @@ body {
 
 .btn-primary {
   color: #fff;
-  background: #c489d6;
+  background: #16a083;
 }
 
 .btn-primary:hover {
-  background: #45396d;
+  background: #117964;
   transition: background 0.3s ease-in-out;
 }
 
